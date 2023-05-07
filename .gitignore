@@ -181,5 +181,7 @@ pyrightconfig.json
 # VIM
 *.swp
 
-# DEB Workshop
+# env
+env
 de-lifecycle
+bigquery.json
